@@ -1,0 +1,6 @@
+{
+  "appId": "com.jjjcashier.app",
+  "appName": "微卡收银台",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
